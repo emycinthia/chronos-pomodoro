@@ -1,0 +1,7 @@
+.container {
+    font-size: clamp(8rem, 18vw, 16rem); /* responsividade da fonte */
+    font-size: 18vw;
+    font-weight: bold;
+    text-align: center;
+    line-height: 1.3;
+}
